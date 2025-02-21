@@ -1,1 +1,3 @@
+role,NetID,LastName,FirstName
 boss, bjtilkens, Tilkens, Brady
+employee,hshi87,Shi,Haoyue
